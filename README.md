@@ -1,5 +1,5 @@
 # Soporte2022-OpenCV
-Trabajo práctico de OpenCV con Python para la materia Soporte
+Trabajo práctico de OpenCV con Python para la materia Soporte - Grupo 8
 
 El programa realizado en Python utiliza OpenCV para contar la cantidad de vehículos que circulan por una ruta.
 Es capaz de reconocer de qué tipo de vehículo se trata y en qué dirección circula.
